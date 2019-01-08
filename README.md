@@ -6,4 +6,5 @@ This project examines the features convolution networks respond to.
 Run the Convnet CIFAR10.ipynb or CIFAR10.py file.
 
 Raw image.
+
 <img src="https://i.imgur.com/WItpsZM.png">
