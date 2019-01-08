@@ -8,3 +8,13 @@ Run the Convnet CIFAR10.ipynb or CIFAR10.py file.
 Raw image.
 
 <img src="https://i.imgur.com/WItpsZM.png">
+
+Convolution filter
+
+<img src="https://i.imgur.com/UfcLYAJ.png">
+
+Deconvoluted image.
+
+<img src="https://i.imgur.com/UfcLYAJ.png">
+
+The deconvoluted image show that the filter responded to the image's diagonal lines.
